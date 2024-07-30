@@ -1,3 +1,3 @@
 use schema demo;
 
-alter table demo_table add column email varchar;
+alter table HELLO_WORLD add column email varchar;
