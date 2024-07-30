@@ -1,3 +1,4 @@
 use schema demo;
 
-alter table HELLO_WORLD as demo_table;
+INSERT INTO HELLO_WORLD ( first_name,last_name,age)
+VALUES ('sai','sri',5);
