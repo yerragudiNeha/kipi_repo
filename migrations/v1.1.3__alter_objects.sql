@@ -1,3 +1,3 @@
 use schema demo;
 
-alter table HELLO_WORLD add column address varchar;
+alter table HELLO_WORLD as demo_table;
