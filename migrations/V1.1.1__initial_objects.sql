@@ -5,5 +5,5 @@ CREATE TABLE HELLO_WORLD
   ,LAST_NAME VARCHAR
 );
 
-INSERT INTO HELLO_WORLD ( first_name,last_name,age)
-VALUES ('A','B',5);
+--INSERT INTO HELLO_WORLD ( first_name,last_name,age)
+--VALUES ('A','B',5);
