@@ -9,3 +9,6 @@ VALUES ('john','mac',5);
 INSERT INTO HELLO_WORLD ( first_name,last_name,age)
 VALUES ('mark','antony',20);
 
+INSERT INTO HELLO_WORLD ( first_name,last_name,age)
+VALUES ('David','jhon',20);
+
